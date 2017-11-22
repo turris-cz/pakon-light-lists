@@ -1,8 +1,13 @@
 gravatar.com
 www.summerhamster.com
 code.jquery.com
+ravenjs.com
 maxcdn.bootstrapcdn.com
 cdnjs.cloudflare.com
+jsdelivr.com
+jsdelivr.net
+ajax.aspnetcdn.com
+googleapis.com
 services.mozilla.com
 addons.mozilla.org
 cdn.mozilla.net
@@ -20,3 +25,4 @@ ocsp.godaddy.com
 ocsp.int-x3.letsencrypt.org
 ocsp.digicert.com
 symcd.com
+consent.trustarc.com
