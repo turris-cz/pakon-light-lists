@@ -3,6 +3,7 @@ www.summerhamster.com
 code.jquery.com
 ravenjs.com
 maxcdn.bootstrapcdn.com
+netdna.bootstrapcdn.com
 cdnjs.cloudflare.com
 jsdelivr.com
 jsdelivr.net
@@ -15,6 +16,7 @@ telemetry.mozilla.org
 aus5.mozilla.org
 detectportal.firefox.com
 connectivitycheck.android.com
+connectivity-check.ubuntu.com
 ocsp2.globalsign.com
 ocsp.msocsp.com
 ocsp.usertrust.com
@@ -24,5 +26,14 @@ ocsp.comodoca.com
 ocsp.godaddy.com
 ocsp.int-x3.letsencrypt.org
 ocsp.digicert.com
+ocsp.comodoca4.com
+ocsp-certum.com
+ocsp.globalsign.com
+ocsp.ssl.com
+ocsp.trust-provider.com
+ocsp.geotrust.com
+pca-g3-ocsp.geotrust.com
+ocsp.entrust.net
 symcd.com
+symcb.com
 consent.trustarc.com
