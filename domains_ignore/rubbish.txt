@@ -4,11 +4,19 @@ code.jquery.com
 ravenjs.com
 maxcdn.bootstrapcdn.com
 netdna.bootstrapcdn.com
+netdna-ssl.com
 cdnjs.cloudflare.com
 jsdelivr.com
 jsdelivr.net
 ajax.aspnetcdn.com
 googleapis.com
+i0.wp.com
+i1.wp.com
+i2.wp.com
+s0.wp.com
+s1.wp.com
+s2.wp.com
+widgets.wp.com
 services.mozilla.com
 addons.mozilla.org
 cdn.mozilla.net
@@ -37,3 +45,7 @@ ocsp.entrust.net
 symcd.com
 symcb.com
 consent.trustarc.com
+thawte.com
+verisign.com
+msocsp.com
+oscp.apple.com
