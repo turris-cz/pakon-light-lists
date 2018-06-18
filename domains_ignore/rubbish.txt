@@ -25,6 +25,7 @@ aus5.mozilla.org
 detectportal.firefox.com
 connectivitycheck.android.com
 connectivity-check.ubuntu.com
+captive.apple.com
 ocsp2.globalsign.com
 ocsp.msocsp.com
 ocsp.usertrust.com
@@ -48,4 +49,4 @@ consent.trustarc.com
 thawte.com
 verisign.com
 msocsp.com
-oscp.apple.com
+ocsp.apple.com
